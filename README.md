@@ -7,4 +7,4 @@
    <b>t</b>, time period in years <br>
    <b>r</b>, annual rate of interest <br>
 ### Output
-   <b> simple interest = p*t*r <b>
+   <b> simple interest = p * t * r <b>
